@@ -1,0 +1,25 @@
+---
+- students:
+    - name: itishri
+      phno: 832887389
+      address: 
+         houseno: 04
+         streetno: kamashyanagar
+         pin: 761008
+
+    - name: sasmita
+      phno: 908483758
+      address: 
+         houseno: 07
+         streetno: newstreet
+         pin: 783892
+
+    - name: pragyna
+      phno: 9948273477
+      address: 
+         houseno: 05
+         streetno: kalimandirastreet
+         pin: 761001
+
+    
+    
